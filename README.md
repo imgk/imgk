@@ -3,7 +3,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=imgk.readme)
 
 - 自学go开发
-- 外行想转行到go开发
+- 外行想转行到go开发，有工作机会请联系我
 
 ![](https://github-readme-stats.vercel.app/api?username=imgk)
 
